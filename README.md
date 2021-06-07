@@ -4,6 +4,8 @@
 
 ![image](https://user-images.githubusercontent.com/65225823/121056199-ef90e780-c7f8-11eb-9777-caf62c6cdd7d.png)
 
+![image](https://user-images.githubusercontent.com/65225823/121058008-da1cbd00-c7fa-11eb-80af-392a4adc77e1.png)
+
 ### Used COCO 2014 Dataset
 
 ### Paper : Simple Copy-Paste is a Strong Data Augmentation Method for Instance Segmentation
